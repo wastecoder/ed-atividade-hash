@@ -1,5 +1,5 @@
 # Atividade de Hash
-Exibe IPv4 e média de ping do terminal de Windows ou Linux
+Implementa hash linear e encadeado
 
 ## Descrição do exercício
 1. Implemente uma tabela de Hashing para armazenar 26 nomes em ordem alfabética. A sua função hash() deve garantir a classificação.
